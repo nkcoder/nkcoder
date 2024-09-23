@@ -6,4 +6,4 @@
 - 🏀 Basketball and NBA fan
 - 🇦🇺 Live in Australia
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/daniel5hbs?ext=activity&theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/daniel5hbs?theme=nord)
