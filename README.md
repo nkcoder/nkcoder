@@ -1,4 +1,4 @@
-## Hi, I'm Alex 👋👨🏻‍💻
+## Hi, I'm Daniel 👋
 
 - 💡 [Personal Wiki](https://www.daniel-guo.com/)
 - 🕸️ [LinkedIn](https://www.linkedin.com/in/daniel-guo-au/)
