@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-- 💡 [Personal Wiki](https://www.daniel-guo.com/)
+- 💡 [Personal Wiki](https://space.daniel-guo.com/)
 - 🕸️ [LinkedIn](https://www.linkedin.com/in/daniel-guo-au/)
 - 👨🏻‍💻 A software developer, working with TypeScript, loves Golang, functional programming(Scala)
 - 🏀 Basketball and NBA fan
