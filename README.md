@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Engineering practice, clean code**
 
-- 📫 How to reach me **daniel5hbs@gmail.com**
+- 📫 How to reach me **daniel5hbs at gmail.com**
 
 - 📝 I regularly write articles on **[https://space.daniel-guo.com/](https://space.daniel-guo.com/)**
 
