@@ -1,10 +1,8 @@
 # Hi, I'm Daniel G 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&width=500&lines=A+software+engineer+who+loves+clean+code;Building+scalable+cloud+native+applications;Exploring+Event-Driven+Architecture" alt="Typing SVG" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nkcoder&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="nkcoder" /> 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkcoder&label=Profile views&color=0e75b6&style=flat" alt="nkcoder" /> </p>
 
 - 🔭 I'm currently working on **TypeScript/Node.js, Java/SpringBoot, AWS**
 
