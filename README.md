@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **TypeScript/Node.js, Java/SpringBoot, AWS**
 
-- 🌱 I'm currently learning **Go, Rust, Event Driven Design**
+- 🌱 I'm currently learning **AI, Go, Event Driven Design**
 
 - 💬 Ask me about **Engineering practice, clean code**
 
