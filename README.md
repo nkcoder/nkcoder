@@ -4,15 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=nkcoder&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="nkcoder" /> 
 </p>
 
-- 🔭 I'm currently working on **TypeScript/Node.js, Java/SpringBoot, AWS**
+- 🔭 I'm currently working on **TypeScript/Node.js, Event Driven Systems, AWS**
 
-- 🌱 I'm currently learning **AI, Go, Event Driven Design**
+- 🌱 I'm currently learning **AI, Go**
 
-- 💬 Ask me about **Engineering practice, clean code**
+- 💬 Ask me about **Engineering practice, clean code, AWS**
 
-- 📫 How to reach me **daniel5hbs at gmail.com**
+- 📫 How to reach me **daniel5hbs at gmail**
 
-- 📝 I regularly write articles on **[https://space.daniel-guo.com/](https://space.daniel-guo.com/)**
+- 📝 My personal space **[https://logs.daniel-guo.com/](https://logs.daniel-guo.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
